@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#b39ddb</color>
+    <color name="parksColor">#003300</color>
+    <color name="activitiesColor">#3d5afe</color>
+    <color name="historicPlacesColor">#fdd835</color>
+    <color name="foodsColor">#f44336</color>
+    <color name="mainBackground">#e3f2fd</color>
+    <color name="defaultTextColor">#000000</color>
+    <color name="altTextColor">@android:color/white</color>
+</resources>

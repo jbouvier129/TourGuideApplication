@@ -1,0 +1,66 @@
+<resources>
+    <string name="app_name">Tour Guide Application</string>
+
+    <!-- Tab names-->
+    <string name="category_historical">Historical</string>
+    <string name="category_activities">Activities</string>
+    <string name="category_restaurants">Food</string>
+    <string name="category_parks">Parks</string>
+
+    <!--Restaurant Info-->
+    <string name="restaurant_one_name">Indis</string>
+    <string name="restaurant_one_address">3353 Fern Valley Road</string>
+    <string name="restaurant_one_phone_number">502&#8211;969&#8211;7993</string>
+    <string name="restaurant_one_web">https://www.google.com/search?ei=nV09W4qxHYP85gL_m4D4Dw&amp;q=Indi%27s+Fast+Food+Restaurant%2C+Fern+Valley+Road%2C+Louisville%2C+KY&amp;oq=indis+restaurant+fern+val&amp;gs_l=psy-ab.3.1.0i22i30k1j38.11257.14170.0.16537.9.9.0.0.0.0.143.1010.3j6.9.0....0...1c.1.64.psy-ab..0.9.1008...0j0i10k1j0i22i10i30k1j0i13k1j0i13i30k1j0i13i10i30k1.0.D-HzDv8KIs4</string>
+    <string name="restaurant_two_name">Wild Eggs</string>
+    <string name="restaurant_two_address">3985 Dutchmans Lane</string>
+    <string name="restaurant_two_phone_number">502&#8211;893&#8211;8005</string>
+    <string name="restaurant_two_web">https://wildeggs.com/</string>
+    <string name="restaurant_three_name">Coals Artisian Pizza</string>
+    <string name="restaurant_three_address">11615 Shelbyville Road</string>
+    <string name="restaurant_three_phone_number">502&#8211;253&#8211;0106</string>
+    <string name="restaurant_three_web">http://coalsartisanpizza.com/</string>
+    <string name="restaurant_four_name">Jeff Rubys Steak House</string>
+    <string name="restaurant_four_address">325 West Main Street</string>
+    <string name="restaurant_four_phone_number">502&#8211;584&#8211;0102</string>
+    <string name="restaurant_four_web">http://www.jeffruby.com/louisville</string>
+
+    <!--Historic Place info-->
+    <string name="historic_place_one_name">Churchill Downs</string>
+    <string name="historic_place_one_address">700 Central Avenue</string>
+    <string name="historic_place_one_phone_number">502&#8211;636&#8211;4400</string>
+    <string name="historic_place_one_web">https://www.churchilldowns.com/</string>
+    <string name="historic_place_two_name">Louisville Slugger Museum</string>
+    <string name="historic_place_two_address">800 West Main Street</string>
+    <string name="historic_place_two_phone_number">877&#8211;775&#8211;8443</string>
+    <string name="historic_place_two_web">https://www.sluggermuseum.com/</string>
+
+    <!--Park Info-->
+    <string name="park_one_name">Jefferson Memorial Forest</string>
+    <string name="park_one_address">11311 Mitchell Hill Road</string>
+    <string name="park_one_phone_number">502&#8211;368&#8211;5404</string>
+    <string name="park_one_web">https://www.facebook.com/jmfnaturalareas/</string>
+    <string name="park_two_name">Bernheim Forest</string>
+    <string name="park_two_address">2075 Clermont Road</string>
+    <string name="park_two_phone_number">502&#8211;955&#8211;8512</string>
+    <string name="park_two_web">https://bernheim.org/</string>
+
+    <!--Activities Info-->
+    <string name="activity_one_name">Yum Center</string>
+    <string name="activity_one_address">1 Arena Plaza</string>
+    <string name="activity_one_phone_number">502&#8211;690&#8211;9000</string>
+    <string name="activity_one_web">https://www.kfcyumcenter.com/</string>
+    <string name="activity_two_name">Louisville Theater</string>
+    <string name="activity_two_address">501 West Main Street</string>
+    <string name="activity_two_phone_number">502&#8211;562&#8211;0100</string>
+    <string name="activity_two_web">http://www.kentuckycenter.org/</string>
+    <string name="activity_three_name">Kentucky Kingdom</string>
+    <string name="activity_three_address">937 Phillips Lane</string>
+    <string name="activity_three_phone_number">502&#8211;813&#8211;8200</string>
+    <string name="activity_three_web">https://www.kentuckykingdom.com/</string>
+
+    <!--Content Description-->
+    <string name="location_image">Image of Location</string>
+
+
+</resources>
