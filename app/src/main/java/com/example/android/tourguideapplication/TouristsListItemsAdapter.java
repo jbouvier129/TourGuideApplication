@@ -36,7 +36,7 @@ public class TouristsListItemsAdapter extends ArrayAdapter<TouristItemsClass>{
 
         /*
         gets and sets the various view information and color attributes in the list item based on
-        information in the Array List for the fragment
+        information in the Array List from the active fragment
          */
         TouristItemsClass currentViewItem = getItem(position);
 
